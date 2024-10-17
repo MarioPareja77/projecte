@@ -1,0 +1,452 @@
+1729104390848	geckodriver	INFO	Listening on 127.0.0.1:59897
+*** You are running in headless mode.
+1729104391403	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3j143W"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729104391938	Marionette	INFO	Marionette enabled
+1729104392096	Marionette	INFO	Listening on port 44127
+Read port: 44127
+WebDriver BiDi listening on ws://127.0.0.1:39425
+1729104392162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39425/devtools/browser/c2b69c48-e51d-4a0b-91aa-5484e38c5be5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:41433."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:41433."
+1729104394001	Marionette	INFO	Stopped listening on port 44127
+1729104394884	geckodriver	INFO	Listening on 127.0.0.1:33395
+*** You are running in headless mode.
+1729104395424	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileovE2kb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729104395926	Marionette	INFO	Marionette enabled
+1729104396020	Marionette	INFO	Listening on port 37109
+Read port: 37109
+WebDriver BiDi listening on ws://127.0.0.1:41785
+1729104396098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41785/devtools/browser/8932efad-a8ad-4cd1-93a1-fb2f831aec01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:60415."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:60415."
+1729104397870	Marionette	INFO	Stopped listening on port 37109
+1729105237645	geckodriver	INFO	Listening on 127.0.0.1:55747
+*** You are running in headless mode.
+1729105238232	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexYTwtd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729105239058	Marionette	INFO	Marionette enabled
+1729105239234	Marionette	INFO	Listening on port 33791
+WebDriver BiDi listening on ws://127.0.0.1:60777
+Read port: 33791
+1729105239611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60777/devtools/browser/335db6b7-90b2-41f4-9ccd-3651861a112b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:35905."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:35905."
+1729105242624	Marionette	INFO	Stopped listening on port 33791
+1729105243811	geckodriver	INFO	Listening on 127.0.0.1:57999
+*** You are running in headless mode.
+1729105244369	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileabS1tp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729105245033	Marionette	INFO	Marionette enabled
+1729105245180	Marionette	INFO	Listening on port 36247
+WebDriver BiDi listening on ws://127.0.0.1:51769
+Read port: 36247
+1729105245496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51769/devtools/browser/eae0dc54-68bd-487d-8afe-8554707d3863
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49287."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49287."
+1729105248284	Marionette	INFO	Stopped listening on port 36247
+1729105475958	geckodriver	INFO	Listening on 127.0.0.1:36055
+*** You are running in headless mode.
+1729105476526	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJHEtqo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729105477215	Marionette	INFO	Marionette enabled
+1729105477377	Marionette	INFO	Listening on port 33863
+WebDriver BiDi listening on ws://127.0.0.1:55643
+Read port: 33863
+1729105477683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55643/devtools/browser/fd390036-97b4-4921-ad8d-14e1a165929a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:48597."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:48597."
+1729105480389	Marionette	INFO	Stopped listening on port 33863
+1729105481569	geckodriver	INFO	Listening on 127.0.0.1:36829
+*** You are running in headless mode.
+1729105482127	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileROFSfF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729105482808	Marionette	INFO	Marionette enabled
+1729105482967	Marionette	INFO	Listening on port 42695
+WebDriver BiDi listening on ws://127.0.0.1:56051
+Read port: 42695
+1729105483274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56051/devtools/browser/30436161-6ecd-47cb-bce1-686524148a29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:40321."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:40321."
+1729105486078	Marionette	INFO	Stopped listening on port 42695
+1729106198029	geckodriver	INFO	Listening on 127.0.0.1:48257
+*** You are running in headless mode.
+1729106198596	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9NmoBH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729106199275	Marionette	INFO	Marionette enabled
+1729106199412	Marionette	INFO	Listening on port 44037
+WebDriver BiDi listening on ws://127.0.0.1:50081
+Read port: 44037
+1729106199691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50081/devtools/browser/97788b9e-89ef-4cc3-8c3e-8fc84abca257
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:60845."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:60845."
+1729106202706	Marionette	INFO	Stopped listening on port 44037
+1729106203820	geckodriver	INFO	Listening on 127.0.0.1:56223
+*** You are running in headless mode.
+1729106204357	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLS3klp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729106205072	Marionette	INFO	Marionette enabled
+1729106205225	Marionette	INFO	Listening on port 40023
+WebDriver BiDi listening on ws://127.0.0.1:35745
+Read port: 40023
+1729106205501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35745/devtools/browser/7dbb79e2-ba56-42c2-8575-e277293aa5ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:37245."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:37245."
+1729106208527	Marionette	INFO	Stopped listening on port 40023
+1729106288298	geckodriver	INFO	Listening on 127.0.0.1:48713
+*** You are running in headless mode.
+1729106288363	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileedWq2R"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729106289043	Marionette	INFO	Marionette enabled
+1729106289195	Marionette	INFO	Listening on port 36861
+WebDriver BiDi listening on ws://127.0.0.1:35987
+Read port: 36861
+1729106289501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35987/devtools/browser/0b17e09a-d746-4175-b8bf-13c1c911934d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:45553."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:45553."
+1729106292290	Marionette	INFO	Stopped listening on port 36861
+1729106293428	geckodriver	INFO	Listening on 127.0.0.1:39575
+*** You are running in headless mode.
+1729106293997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejxamTW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729106294673	Marionette	INFO	Marionette enabled
+1729106294828	Marionette	INFO	Listening on port 44677
+WebDriver BiDi listening on ws://127.0.0.1:35711
+Read port: 44677
+1729106295151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35711/devtools/browser/f0972099-6cc4-4d9d-977e-0680b8d3a366
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:33955."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:33955."
+1729106298051	Marionette	INFO	Stopped listening on port 44677
+1729107999039	geckodriver	INFO	Listening on 127.0.0.1:59625
+*** You are running in headless mode.
+1729107999614	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9c2hbH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729108000331	Marionette	INFO	Marionette enabled
+1729108000479	Marionette	INFO	Listening on port 40703
+WebDriver BiDi listening on ws://127.0.0.1:42995
+Read port: 40703
+1729108000741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42995/devtools/browser/765e6ecf-8249-4a3b-93eb-a7bc633cc74f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:46015."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:46015."
+1729108003542	Marionette	INFO	Stopped listening on port 40703
+1729108004693	geckodriver	INFO	Listening on 127.0.0.1:54961
+*** You are running in headless mode.
+1729108005254	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0zaKnH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729108006013	Marionette	INFO	Marionette enabled
+1729108006160	Marionette	INFO	Listening on port 36995
+WebDriver BiDi listening on ws://127.0.0.1:37461
+Read port: 36995
+1729108006493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37461/devtools/browser/c298dc40-a5eb-45ed-aaa6-dda7b62afaa9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49277."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49277."
+1729108009368	Marionette	INFO	Stopped listening on port 36995
+1729108784108	geckodriver	INFO	Listening on 127.0.0.1:33915
+*** You are running in headless mode.
+1729108784672	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCKFSjn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729108785417	Marionette	INFO	Marionette enabled
+1729108785584	Marionette	INFO	Listening on port 37069
+WebDriver BiDi listening on ws://127.0.0.1:51311
+Read port: 37069
+1729108785935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51311/devtools/browser/b122967e-b89c-4270-983c-5d08771cf3d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:44447."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:44447."
+1729108789066	Marionette	INFO	Stopped listening on port 37069
+1729108790268	geckodriver	INFO	Listening on 127.0.0.1:57431
+*** You are running in headless mode.
+1729108790833	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenI62FY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729108791520	Marionette	INFO	Marionette enabled
+1729108791651	Marionette	INFO	Listening on port 36105
+WebDriver BiDi listening on ws://127.0.0.1:49505
+Read port: 36105
+1729108791951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49505/devtools/browser/1a703d33-ec6f-4252-9d6f-c91568918bd4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:41233."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:41233."
+1729108794722	Marionette	INFO	Stopped listening on port 36105
+1729108996675	geckodriver	INFO	Listening on 127.0.0.1:49919
+*** You are running in headless mode.
+1729108997257	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSQhQi6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729108997941	Marionette	INFO	Marionette enabled
+1729108998106	Marionette	INFO	Listening on port 39873
+WebDriver BiDi listening on ws://127.0.0.1:49657
+Read port: 39873
+1729108998402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49657/devtools/browser/0d06f1ba-5875-4b8f-83f7-b5aa11340051
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:48281."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:48281."
+1729109001189	Marionette	INFO	Stopped listening on port 39873
+1729109002373	geckodriver	INFO	Listening on 127.0.0.1:51731
+*** You are running in headless mode.
+1729109002938	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoBwP7w"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729109003595	Marionette	INFO	Marionette enabled
+1729109003735	Marionette	INFO	Listening on port 42001
+Read port: 42001
+WebDriver BiDi listening on ws://127.0.0.1:38083
+1729109003842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38083/devtools/browser/135aeb3f-ce02-45fd-b702-81ad5d589526
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49035."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49035."
+1729109006875	Marionette	INFO	Stopped listening on port 42001
+1729109245619	geckodriver	INFO	Listening on 127.0.0.1:36707
+*** You are running in headless mode.
+1729109246175	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePombai"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729109246854	Marionette	INFO	Marionette enabled
+1729109247008	Marionette	INFO	Listening on port 43631
+WebDriver BiDi listening on ws://127.0.0.1:43003
+Read port: 43631
+1729109247277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43003/devtools/browser/6a6f88de-8b58-465f-8d2d-a9d8f394d244
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:38289."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:38289."
+1729109249981	Marionette	INFO	Stopped listening on port 43631
+1729109251182	geckodriver	INFO	Listening on 127.0.0.1:46493
+*** You are running in headless mode.
+1729109251737	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS9kN9H"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729109252392	Marionette	INFO	Marionette enabled
+1729109252507	Marionette	INFO	Listening on port 38669
+WebDriver BiDi listening on ws://127.0.0.1:59863
+Read port: 38669
+1729109252775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59863/devtools/browser/fd17f2c9-c1c4-4633-9f15-81fe95723b87
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:45835."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:45835."
+1729109255654	Marionette	INFO	Stopped listening on port 38669
+1729109538550	geckodriver	INFO	Listening on 127.0.0.1:57173
+*** You are running in headless mode.
+1729109539116	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG6X96r"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729109539779	Marionette	INFO	Marionette enabled
+1729109539951	Marionette	INFO	Listening on port 40889
+WebDriver BiDi listening on ws://127.0.0.1:46529
+Read port: 40889
+1729109540257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46529/devtools/browser/c1ee287a-2608-40a2-8bb0-803a80ff7086
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:56749."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:56749."
+1729109543057	Marionette	INFO	Stopped listening on port 40889
+1729109544242	geckodriver	INFO	Listening on 127.0.0.1:51899
+*** You are running in headless mode.
+1729109544806	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDDoTGZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729109545467	Marionette	INFO	Marionette enabled
+1729109545652	Marionette	INFO	Listening on port 34955
+WebDriver BiDi listening on ws://127.0.0.1:34205
+Read port: 34955
+1729109545962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34205/devtools/browser/6fdc2e44-5cb7-41ca-a1c0-46a019fd8619
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:45311."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:45311."
+1729109548787	Marionette	INFO	Stopped listening on port 34955
+1729146671973	geckodriver	INFO	Listening on 127.0.0.1:50011
+*** You are running in headless mode.
+1729146672529	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS5iETN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729146673016	Marionette	INFO	Marionette enabled
+1729146673134	Marionette	INFO	Listening on port 38105
+WebDriver BiDi listening on ws://127.0.0.1:47489
+Read port: 38105
+1729146673474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47489/devtools/browser/e1f77deb-bf35-4d41-928c-7e2f18a8b513
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:46125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:46125."
+1729146675872	Marionette	INFO	Stopped listening on port 38105
+1729146676825	geckodriver	INFO	Listening on 127.0.0.1:58797
+*** You are running in headless mode.
+1729146677364	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilena6R66"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729146677763	Marionette	INFO	Marionette enabled
+1729146677837	Marionette	INFO	Listening on port 36707
+WebDriver BiDi listening on ws://127.0.0.1:57757
+Read port: 36707
+1729146678013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57757/devtools/browser/940eb389-a373-434e-b0f7-b76241fa7bd5
+console.error: BackupService: "Failed to measure for resource: miscellaneous" (new NotFoundError("Could not stat `/tmp/rust_mozprofilena6R66/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.sqlite-journal': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 911))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:48535."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:48535."
+1729146679427	Marionette	INFO	Stopped listening on port 36707
+1729146915963	geckodriver	INFO	Listening on 127.0.0.1:35257
+*** You are running in headless mode.
+1729146916508	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKX8RGl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729146916896	Marionette	INFO	Marionette enabled
+1729146916973	Marionette	INFO	Listening on port 42681
+WebDriver BiDi listening on ws://127.0.0.1:50425
+Read port: 42681
+1729146917168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50425/devtools/browser/f65cf4be-b76c-4a3f-b7c6-d140c6ef97e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49657."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:49657."
+1729146918924	Marionette	INFO	Stopped listening on port 42681
+1729147121095	geckodriver	INFO	Listening on 127.0.0.1:56439
+*** You are running in headless mode.
+1729147121653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex1pTHW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729147122054	Marionette	INFO	Marionette enabled
+1729147122133	Marionette	INFO	Listening on port 41179
+WebDriver BiDi listening on ws://127.0.0.1:59139
+Read port: 41179
+1729147122294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59139/devtools/browser/c6494281-537a-4663-8c7e-3e7c7f9acea6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:33129."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:33129."
+1729147123973	Marionette	INFO	Stopped listening on port 41179
+1729147209412	geckodriver	INFO	Listening on 127.0.0.1:60033
+*** You are running in headless mode.
+1729147209976	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePGpiW7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1729147210462	Marionette	INFO	Marionette enabled
+1729147210545	Marionette	INFO	Listening on port 34729
+WebDriver BiDi listening on ws://127.0.0.1:55565
+Read port: 34729
+1729147210742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55565/devtools/browser/cf3433f4-593d-4dd6-9421-037d1e17d0d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:57635."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:57635."
+1729147212554	Marionette	INFO	Stopped listening on port 34729
