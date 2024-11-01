@@ -1,0 +1,46 @@
+from django.test import LiveServerTestCase
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+
+class AdminPanelCreateUserTest(LiveServerTestCase):
+
+    def setUp(self):
+        # Configuración del navegador Chrome
+        options = Options()
+        options.headless = True  # Ejecuta Chrome en modo headless (sin interfaz gráfica)
+        self.selenium = webdriver.Chrome(options=options, executable_path='/ruta/a/chromedriver')
+        self.selenium.implicitly_wait(10)
+
+    def tearDown(self):
+        self.selenium.quit()
+
+    def test_create_user_through_admin_panel(self):
+        # Accedemos a la página de login del admin de Django
+        self.selenium.get(f'{self.live_server_url}/admin/login/')
+
+        # Verificamos el título
+        self.assertEqual(self.selenium.title, "Log in | Django site admin")
+
+        # Iniciamos sesión introduciendo el usuario administrador y la contraseña
+        username_input = self.selenium.find_element(By.NAME, "username")
+        username_input.send_keys('isard')
+        password_input = self.selenium.find_element(By.NAME, "password")
+        password_input.send_keys('pirineusXXX')
+        self.selenium.find_element(By.XPATH, '//input[@value="Log in"]').click()
+
+        # Verificamos que el inicio de sesión haya sido exitoso
+        self.selenium.get(f'{self.live_server_url}/admin/auth/user/add/')
+        self.assertEqual(self.selenium.title, "Site administration | Django site admin")
+
+        # Llenamos el formulario de creación de usuario
+        username_input = self.selenium.find_element(By.NAME, "username")
+        username_input.send_keys("marioparejanieto@gmail.com")
+        password1_input = self.selenium.find_element(By.NAME, "password1")
+        password1_input.send_keys("1234")
+        password2_input = self.selenium.find_element(By.NAME, "password2")
+        password2_input.send_keys("1234")
+        self.selenium.find_element(By.NAME, "_save").click()
+
+        # Verificamos si el usuario ha sido creado
+        self.selenium.find_element(By.LINK_TEXT, "marioparejanieto@gmail.com")
